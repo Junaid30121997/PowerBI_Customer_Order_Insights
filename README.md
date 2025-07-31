@@ -36,8 +36,3 @@ This project showcases an interactive Power BI dashboard that analyzes customer 
 
 
 
-## 📌 How to Use
-
-1. Clone the repo:
-```bash
-git clone https://github.com/yourusername/PowerBI_Customer_Order_Insights.git
