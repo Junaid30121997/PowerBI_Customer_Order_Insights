@@ -28,7 +28,7 @@ This project showcases an interactive Power BI dashboard that analyzes customer 
 
 | Order Insights | Product Performance | Delivery Performance |
 |----------------|---------------------|----------------------|
-| ![Order]([Dashboards/Screenshot1.png](https://github.com/Junaid30121997/PowerBI_Customer_Order_Insights/blob/main/Screenshot%202025-07-17%20142040.png)) | ![Product]([Dashboards/Screenshot2.png](https://github.com/Junaid30121997/PowerBI_Customer_Order_Insights/blob/main/Screenshot%202025-07-17%20152437.png)) | ![Delivery]([Dashboards/Screenshot3.png](https://github.com/Junaid30121997/PowerBI_Customer_Order_Insights/blob/main/Screenshot%202025-07-17%20142103.png)) |
+| ![Order](https://github.com/Junaid30121997/PowerBI_Customer_Order_Insights/blob/main/Screenshot%202025-07-17%20142040.png)) | ![Product](https://github.com/Junaid30121997/PowerBI_Customer_Order_Insights/blob/main/Screenshot%202025-07-17%20152437.png)) | ![Delivery](https://github.com/Junaid30121997/PowerBI_Customer_Order_Insights/blob/main/Screenshot%202025-07-17%20142103.png)) |
 
 
 
